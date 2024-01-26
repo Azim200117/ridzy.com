@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Neon&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  list-style: none;
+}
+
+.navbar-text{
+  font-family: 'Tilt Neon', sans-serif;
+}
+
+.navbar-a{
+  font-family: 'Varela Round', sans-serif;
+}
+
+section{
+  font-family: 'Quicksand', sans-serif;
+}
