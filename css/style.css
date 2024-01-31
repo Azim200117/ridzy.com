@@ -7,3 +7,30 @@
   list-style: none;
   font-family: 'Jost', sans-serif;
 }
+
+.header-form{
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.30);
+  display: inline-flex;
+  padding: 16px;
+  align-items: flex-start;
+  gap: 24px;
+}
+
+.form input{
+    padding: 10px;
+    border-radius: 8px;
+    text-align: left;
+    font-size: 20px;
+    outline: none;
+    font-weight: 500;
+}
+
+.form select{
+  width: 180px;
+  padding: 10px;
+  border-radius: 8px;
+  font-size: 20px;
+  font-weight: 500;
+  outline: none;
+}
